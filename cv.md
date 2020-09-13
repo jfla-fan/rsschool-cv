@@ -30,7 +30,7 @@ I'm all in studying all the things accorded to computers.
 ### Skills, code, experience, education and other
 ----------------
 
-My skills:
+### My skills ###:
 * Layout
     * HTML
     * CSS
@@ -43,6 +43,7 @@ My skills:
     * Unity
     * Python
 
+### Self-education ###
 Currently I don't have completed projects that I would like to share. But currently I'm taking a course of layout's basics and I'm gonna show up the projects that will be done at the end of the courses.
 Courses that I'm taking now:
 1. RS 2020Q3
@@ -51,4 +52,6 @@ Courses that I'm taking now:
 
 Also I studying hard math and taking extra math classes to understand more about computer graphics, rendering and other game engines features.
 
+
+### My english level ###
 I estimate my English level as B1 at this time.
