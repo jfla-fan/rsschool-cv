@@ -1,4 +1,3 @@
-https://jfla-fan.github.io/rsschool-cv/cv
-
+https://jfla-fan.github.io/rsschool-cv/
 
 
